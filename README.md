@@ -13,5 +13,5 @@ This script injects a `Spotify` search button to each song in the [playlist](htt
 ## Installation
 1. In Arc Browser, push `Command + t` and type `New Boost` or alternatively push the `+` button in the lower left
 2. Select the Inject template
-3. Copy and paste this script
+3. Copy and paste the `content.js` script
 4. Enjoy!
