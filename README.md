@@ -15,3 +15,6 @@ This script injects a `Spotify` search button to each song in the [playlist](htt
 2. Select the Inject template
 3. Copy and paste the `content.js` script
 4. Enjoy!
+
+### Thank you
+I got the idea when I saw the repository from [@kedarrudrawar](https://github.com/kedarrudrawar) and his [Reddit button](https://github.com/kedarrudrawar/Arc-Boosts) integration in Google search.
