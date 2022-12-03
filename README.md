@@ -7,6 +7,11 @@ This script injects a `Spotify` search button to each song in the [playlist](htt
 
 <img width="1104" alt="Bildschirm­foto 2022-11-14 um 18 41 30 Kopie" src="https://user-images.githubusercontent.com/9810829/201944048-89d8c505-bd72-41e4-9bc6-5b3e3bd81705.png">
 
+### Bits und so fixer
+
+This script fixes broken links for all episodes of the tech podcast [Bits und so](https://www.bitsundso.de). It's possible to listen to each episode again with the integrated audio player. The download link will also be fixed.
+
+<img width="542" alt="bus-fixer" src="https://user-images.githubusercontent.com/9810829/205464026-fab356d9-7a38-4770-bae7-5e10348a2e73.png">
 
 ---
 
@@ -17,4 +22,4 @@ This script injects a `Spotify` search button to each song in the [playlist](htt
 4. Enjoy!
 
 ### Thank you
-I got the idea when I saw the repository from [@kedarrudrawar](https://github.com/kedarrudrawar) and his [Reddit button](https://github.com/kedarrudrawar/Arc-Boosts) integration in Google search.
+I got the idea for the Spotify button when I saw the repository from [@kedarrudrawar](https://github.com/kedarrudrawar) and his [Reddit button](https://github.com/kedarrudrawar/Arc-Boosts) integration in Google search.
