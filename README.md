@@ -9,7 +9,7 @@ This script injects a `Spotify` search button to each song in the [playlist](htt
 
 ### Bits und so fixer
 
-This script fixes broken links for all episodes of the tech podcast [Bits und so](https://www.bitsundso.de). It's possible to listen to each episode again with the integrated audio player. The download link will also be fixed. Just open the page of your desired episode by changing the number at the end of the url: [http://www.bitsundso.de/bus138](http://www.bitsundso.de/bus138)
+[This script](https://github.com/marco79cgn/Arc-Boosts/blob/main/bits-und-so-fixer/content.js) fixes broken links for all episodes of the tech podcast [Bits und so](https://www.bitsundso.de). It's possible to listen to each episode again with the integrated audio player. The download link will also be fixed. Just open the page of your desired episode by changing the number at the end of the url: [http://www.bitsundso.de/bus138](http://www.bitsundso.de/bus138)
 
 <img width="542" alt="bus-fixer" src="https://user-images.githubusercontent.com/9810829/205464026-fab356d9-7a38-4770-bae7-5e10348a2e73.png">
 
